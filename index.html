@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="terminal">
+        <div class="terminal-header">
+            <div class="terminal-buttons">
+                <span class="button red"></span>
+                <span class="button yellow"></span>
+                <span class="button green"></span>
+            </div>
+            <div class="terminal-title">Khayri@portfolio: ~</div>
+        </div>
+        <div class="terminal-body" id="terminal-body">
+            <p><span class="prompt">$</span> ls</p>
+            <p>about-me.txt skills.txt contact.txt</p>
+            <p><span class="prompt">$</span> cat about-me.txt</p>
+            <p id="about-me"></p>
+            <p><span class="prompt">$</span> cat skills.txt</p>
+            <pre id="skills"></pre>
+            <p><span class="prompt">$</span> cat contact.txt</p>
+            <pre id="contact"></pre>
+            <p><span class="prompt">$</span> <span class="cursor">_</span></p>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
