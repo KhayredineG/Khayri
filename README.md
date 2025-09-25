@@ -2,9 +2,9 @@
 
 Welcome to the slightly eccentric corner of the web where I show off projects, experiments, and tasteful styling choices.
 
-This repository contains a minimal portfolio website (HTML, CSS, JS). Peek around — there are terminals, fonts, and the occasional delightful bug that was intentionally left for character.
+This repository contains a minimal portfolio website (HTML, CSS, JS). Peek around — there are terminals, fonts, and the occasional delightful bug that was *totally intentional* left for character.
 
-If you like what you see, say hello. If you find something that breaks, congratulations — you discovered an undocumented feature.
+If you like what you see, say hello. If you find something that breaks, congratulations — you are lying.
 
 Cheers,
 
