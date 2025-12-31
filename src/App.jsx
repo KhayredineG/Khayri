@@ -76,7 +76,7 @@ function App() {
       <motion.div style={{ scaleX, position: 'fixed', top: 0, left: 0, right: 0, height: '2px', background: 'var(--accent-primary)', transformOrigin: '0%', zIndex: 100 }} />
 
       <nav style={{ position: 'fixed', top: 0, left: 0, width: '100%', padding: '2rem', display: 'flex', justifyContent: 'space-between', alignItems: 'center', zIndex: 50, mixBlendMode: 'difference' }}>
-        <div style={{ fontWeight: 700, letterSpacing: '-1px' }}>gabsilabs.io</div>
+        <div style={{ fontWeight: 700, letterSpacing: '-1px' }}>khayri.vercel.app</div>
         <div style={{ display: 'flex', gap: '2rem', fontSize: '0.9rem' }}>
           <a href="mailto:khayredinegabsi@gmail.com" className="btn-text">CONTACT</a>
         </div>
