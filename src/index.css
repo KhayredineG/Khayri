@@ -104,11 +104,11 @@ ul {
 }
 
 .hero-title {
-  font-size: clamp(4rem, 12vw, 10rem);
+  font-size: clamp(3rem, 8vw, 6rem);
   line-height: 0.85;
   font-weight: 700;
   margin-bottom: 2.5rem;
-  padding-top: 20vh;
+  padding-top: 15vh;
   letter-spacing: -0.05em;
   text-transform: uppercase;
 }
