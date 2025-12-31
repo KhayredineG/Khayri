@@ -35,6 +35,12 @@ function App() {
       desc: "Contextual Retrieval",
       tech: "LLMs / RAG",
       link: "https://github.com/KhayredineG"
+    },
+    {
+      title: "RULE_GEN",
+      desc: "AI Instruction Optimizer",
+      tech: "Next.js / OpenRouter",
+      link: "https://github.com/KhayredineG"
     }
   ];
 
