@@ -130,7 +130,7 @@ function App() {
               >
                 <div>
                   <div className="row-title">{p.title}</div>
-                  <div style={{ color: 'var(--text-muted)', marginTop: '0.5rem', fontWeight: 300 }}>{p.desc}</div>
+                  <div style={{ color: 'var(--text-muted)', marginTop: '0.5rem', fontWeight: 300, textTransform: 'uppercase', fontSize: '0.8rem', letterSpacing: '1px' }}>{p.desc}</div>
                 </div>
                 <div className="row-meta">{p.tech}</div>
               </motion.a>
@@ -165,8 +165,8 @@ function App() {
                 viewport={{ once: true }}
               >
                 <div>
-                  <div className="row-title" style={{ fontSize: '1.5rem' }}>{exp.title}</div>
-                  <div style={{ color: 'var(--text-muted)', fontWeight: 300 }}>{exp.role}</div>
+                  <div className="row-title">{exp.title}</div>
+                  <div style={{ color: 'var(--text-muted)', fontWeight: 300, textTransform: 'uppercase', fontSize: '0.8rem', letterSpacing: '1px' }}>{exp.role}</div>
                 </div>
                 <div className="row-meta">{exp.year}</div>
               </motion.div>
